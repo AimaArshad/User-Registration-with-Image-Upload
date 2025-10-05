@@ -59,20 +59,20 @@ CREATE TABLE users (
 
 ## Project Structure
 user-registration-app/
-├── src/
-│   ├── components/
-│   │   └── ImageUpload.js
-│   ├── styles/
-│   │   └── ImageUpload.css
-│   └── App.js
-├── backend/
-│   ├── routes/
-│   │   └── upload.js
-│   ├── middleware/
-│   │   └── upload.js
-│   ├── uploads/
-│   └── server.js
-└── README.md
+ ├── src/
+ │   ├── components/
+ │   │   └── ImageUpload.js
+ │    ├── styles/
+ │   │   └── ImageUpload.css
+ │   └── App.js
+ ├── backend/
+ │   ├── routes/
+ │   │   └── upload.js
+ │   ├── middleware/
+ │   │   └── upload.js
+ │   ├── uploads/
+ │   └── server.js
+ └── README.md
 
 ### Running the Application
 Start the backend server
