@@ -59,10 +59,11 @@ CREATE TABLE users (
 
 ## Project Structure
 user-registration-app/
+
  ├── src/
  │   ├── components/
  │   │   └── ImageUpload.js
- │    ├── styles/
+ │   ├── styles/
  │   │   └── ImageUpload.css
  │   └── App.js
  ├── backend/
